@@ -10,10 +10,10 @@ tagcloud: hello
 ## 为true的值
 ```
   true
-        [],{},
+        [], {}, " "
       ```
 ## 为false的值
 ```
     false
-        '',
+        '', null, undefined, 0, NaN
         ```

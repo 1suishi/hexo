@@ -1,7 +1,9 @@
 ---
 title: My New Post
 date: 2016-04-07 16:26:41
-tags: 随笔
+tags: 
+    - 随笔
+    - js
 ---
 ## hexo 常用命令
 ### 提交
