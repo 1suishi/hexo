@@ -12,6 +12,7 @@ tags: require.js
 ### baseUrl
 如果没有显式指定config及data-main，则默认的baseUrl为**包含RequireJS**的那个***HTML***页面的所属目录。
 如果用了data-main属性，则该路径就变成baseUrl。
+ <!-- more -->
 
 ### 定义模块
 >   简单值对
