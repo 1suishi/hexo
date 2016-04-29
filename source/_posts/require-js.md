@@ -2,6 +2,7 @@
 title: require.js
 date: 2016-04-18 15:51:53
 tags: require.js
+category: program
 ---
 >   require.js 是 AMD 规范实现
 
