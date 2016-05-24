@@ -49,3 +49,4 @@ Temporary Items
 /public/*
 .gitignore
 !/.gitignore
+db.json
